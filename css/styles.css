@@ -10390,3 +10390,11 @@ body {
   height:300px;
   background-size: cover;
 }
+
+.redText {
+  color: #D45454 !important;
+}
+
+.redText:hover {
+  color: #B33030 !important;
+}
